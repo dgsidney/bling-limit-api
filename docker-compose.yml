@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      REDIS_ADDR: redis:6379
+      CALLBACK_ENDPOINT: http://example.com/callback # Substitua pela URL real do seu endpoint de callback
+    depends_on:
+      - redis
+
+  redis:
+    image: "redis:alpine"
+    ports:
+      - "6379:6379"
+
+networks:
+  default:
+    driver: overlay
