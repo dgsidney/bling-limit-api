@@ -80,5 +80,5 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Seu Nome - [Guilherme Jansen -Web Developer](https://guilhermejansen.com.br)
 
-Link do Projeto: [https://github.com/seu-usuario/bling_limit](https://github.com/guilhermejansen/bling_limit-api)
+Link do Projeto: [https://github.com/guilhermejansen/bling_limit](https://github.com/guilhermejansen/bling_limit-api)
 
