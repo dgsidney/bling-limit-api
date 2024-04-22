@@ -82,3 +82,12 @@ Seu Nome - [Guilherme Jansen -Web Developer](https://guilhermejansen.com.br)
 
 Link do Projeto: [https://github.com/guilhermejansen/bling_limit-api](https://github.com/guilhermejansen/bling_limit-api)
 
+<div align="center">
+    <a href="https://www.paypal.com/ncp/payment/K7YAM48FD4Y3Y" target="_blank">
+        <img src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate with PayPal">
+    </a>
+    <br>
+    <a href="https://www.paypal.com/ncp/payment/K7YAM48FD4Y3Y" target="_blank">
+        <img src="https://github.com/guilhermejansen/whaticket_deep_cleaning/raw/main/coffee-qrcode.png" alt="Coffee QR Code">
+    </a>
+</div>
