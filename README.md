@@ -78,9 +78,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Seu Nome - [Guilherme Jansen -Web Developer](https://guilhermejansen.com.br)
-
-Link do Projeto: [https://github.com/guilhermejansen/bling_limit-api](https://github.com/guilhermejansen/bling_limit-api)
+Meu Portifólio - [Guilherme Jansen -Web Developer](https://guilhermejansen.com.br)
 
 <div align="center">
     <a href="https://www.paypal.com/ncp/payment/K7YAM48FD4Y3Y" target="_blank">
